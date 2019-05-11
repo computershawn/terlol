@@ -18,7 +18,7 @@ class App extends React.Component {
     return (
       <main className="App">
       <header className="App-header">
-        <h1>terlol</h1>
+        <h1>-/ terlol /-</h1>
       </header>
       <div className="App-list">
         {allCardLists}
